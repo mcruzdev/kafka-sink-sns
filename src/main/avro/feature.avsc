@@ -1,0 +1,11 @@
+{
+  "namespace": "dev.matheuscruz.avro",
+  "type": "record",
+  "name": "Feature",
+  "fields": [
+    {
+      "name": "title",
+      "type": "string"
+    }
+  ]
+}
